@@ -1,4 +1,4 @@
-US-Companies-that-use-Hadoop
+This page documents an alphabetical list of institutions that are using Hadoop for educational or production uses. 
 ============================
 
 A
